@@ -2,6 +2,16 @@ p{
 	color:#ff0000;
 	text-decoration:underline;
 	}
+a:hover {
+	background-color:#999999;
+	}
+#intro{
+	color:#0000ff;
+
+}
+.spotlight{
+	background-color:#fefe22;
+}
 	
 h1{
 	color:#00ff00;
