@@ -1,3 +1,22 @@
 p{
 	color:#ff0000;
+	text-decoration:underline;
 	}
+	
+h1{
+	color:#00ff00;
+	text-transform:uppercase;
+	margin:20px;
+	padding:40px;
+	border:10px #000000 dashed;
+	}
+	
+h2{
+	background-color:#999999;
+	}
+	
+body{
+font-family:sans-serif;
+font-size:2em;
+}
+
